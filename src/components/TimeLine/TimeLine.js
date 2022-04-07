@@ -46,17 +46,17 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-           I'm very ambitious full stack web developer looking for a role in
+           <p> I'm very ambitious full stack web developer looking for a role in
             established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            technologies on challenging and diverse projects.</p>
             <br/>
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+           <p>  I'm quietly confident, naturally curious, and perpetually working on
+            improving my chops one design problem at a time.</p>
             <br/>
-            If I need to define myself in one sentence that would be a family
+           <p> If I need to define myself in one sentence that would be a family
             person, a music lover , photography enthusiast, read a lot of future
             tech blogs and also love to read some books and simply
-            tech-obsessed!!!
+            tech-obsessed!!!</p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
