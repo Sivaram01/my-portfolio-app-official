@@ -17,7 +17,7 @@ const Hero = (props) => (
           Full-Stack-developer / Front-End-Developer / UI -Desgin
         </SectionText>
         <Button  onClick={props.handleClick}>
-          <a href="sivaram-Resume.pdf" download='sivaram-Resume.pdf'> Resume</a>
+          <a href="Sivaram-Resume.pdf" download='Sivaram-Resume.pdf'> Resume</a>
         </Button>
       </LeftSection>
     </Section>

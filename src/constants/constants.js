@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Movie Rating App',
-    description: "Using React, Node.js, Express & MongoDB I have Build an Movie Rating Application where user can Add, Edit or Delete the movie, user can also give Ratings Likes and Dislikes to movies and also watch the trailer of that movie by clicking the movie info and Cool part is user can Switch Light Mode and Dark Mode according to their wish.",
+    description: "Using React, Node, Express & MongoDB I have Build a Movie Rating Application where users can Add, Edit, or Delete the movie, user can also give Rating Likes and Dislikes to movies and also watch the trailer of that movie by clicking the movie info and Cool part is the user can Switch Light Mode and Dark Mode according to their wish.",
       image: '/images/movie.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://movie-rating-application.netlify.app/',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Tshirt Kart',
-    description:"Tshirt Kart is an E-commerance Application  where user can signup and start shopping, This App is build using react on Front-end, node & express & mongoose on Backend, Tshirt Kart is completely loaded with Authentication, Authorization, Admin Pannel and Two PAYMENT GATEWAYS, This is a Full Stack MERN Application comes With Braintree and Stripe Payment Methods",
+    description:"Tshirt Kart is an E-commerce Application where users can sign-up and start shopping, This App is built using react on the Front-end, node & express & mongoose on the Back-end, Tshirt Kart is completely loaded with Authentication, Authorization, Admin Panel, and Two PAYMENT GATEWAYS, This is a Full Stack MERN Application comes With Brain-tree and Stripe Payment Methods.",
     image: '/images/tshirt.png',
     tags: ['React', 'Node' , 'Mongoose' , 'Express'],
     source: 'https://tshirt-kart.netlify.app/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Our_Camp_Ground',
-    description: "Our Camp Ground  is a travel site where user can checkout famous Campgrouonds and if your are a traveller you can post New Campgrounds and share your experience leave Ratings and Comments by Logging In.",
+    description: "Our CampGround is a travel site where users can check out famous Campgrounds and if you are a traveller you can post New Campground and share your experience and leave a Rating and Comment by Logging In.",
       image: '/images/yelpcamp.png',
       tags: ['Javascrpit', 'Node' , 'mongoose'],
     source: 'https://our-camping-ground.herokuapp.com/',
