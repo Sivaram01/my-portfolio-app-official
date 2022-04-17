@@ -27,6 +27,15 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'Google Clone With React',
+    description: "Google Clone is Build on React with help of Rapid-API and Tailwind CSS, This App comes with Light and Dark Mode and also user can serach All Images, News and Videos ",
+    image: '/images/google.png',
+    tags: ['React', 'Tailwind'],
+    source: 'https://shivu-google-clone.netlify.app/search',
+    code: 'https://github.com/Sivaram01/Google-Clone-with-React',
+    id: 3,
+  },
+  {
     title: 'Netflix Landing Page',
     description: "This is a simple Clone of Netflix Landing Page App build With Custom Css,Javascript and Bootstrap ",
     image: '/images/netflix.png',
@@ -35,11 +44,20 @@ export const projects = [
     code: 'https://github.com/Sivaram01/netflix-landing-page',
     id: 3,
   },
+  {
+    title: 'Book Store',
+    description: "This is a Static Book Store App Build With Bootstrap and Custom CSS Animations, By using LightBox js Library nice and ease animation is used by clicking on the Image Gallery  ",
+    image: '/images/book.png',
+    tags: ['Javascript', 'Bootstrap', 'Css'],
+    source: 'https://shivu-book-store.netlify.app/',
+    code: 'https://github.com/Sivaram01/Book-Store',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2019, text: 'Started my jouney into web development', },
-  { year: 2020, text: 'Build and Shared my projects with the world', },
+  { year: 2020, text: 'Started to Build Some Projects', },
   { year: 2021, text: 'Started to learn and Bulid MERN Applications', },
   { year: 2022, text: 'Started to learn the tools like Figma', },
 ];
