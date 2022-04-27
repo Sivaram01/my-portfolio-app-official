@@ -28,7 +28,7 @@ const Projects = () => (
             </div>
             <UtilityList>
               <ExternalLinks href={p.code} target="_blank">Code</ExternalLinks>
-              <ExternalLinks href={p.source} target="_blank">Source</ExternalLinks>
+              <ExternalLinks href={p.source} target="_blank">View</ExternalLinks>
             </UtilityList>
           </BlogCard>
         );
